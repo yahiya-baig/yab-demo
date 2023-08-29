@@ -1,2 +1,3 @@
 # yab-demo
-this is my first git repository
+This is my first Git repositery
+Authar:yahiya baig
